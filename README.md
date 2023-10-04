@@ -1,2 +1,2 @@
 # HTML-Basics
-In this repo u will get to know about html tags 
+This will cover all basics of html which are reuired to get started
